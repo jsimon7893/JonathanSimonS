@@ -3,7 +3,7 @@
     <h1 align="center">
         <b>Hola, soy Jonathan 💻
     </h1>
-    <h2 align="center">Desarrollador web junior</h2>
+    <h2 align="center">Desarrollador web</h2>
     <div align="center">
         <a href="https://www.linkedin.com/in/jonathansimonsa/">
              <img src="https://img.shields.io/badge/-linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
