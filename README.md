@@ -1,7 +1,7 @@
 
 <p>
     <h1 align="center">
-        <b>Hola, soy Jonathan 💻
+        <b>Hola, soy Jonatan 💻
     </h1>
     <h2 align="center">Desarrollador web</h2>
     <div align="center">
