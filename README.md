@@ -5,7 +5,7 @@
     </h1>
     <h2 align="center">Desarrollador web</h2>
     <div align="center">
-        <a href="https://www.linkedin.com/in/jonathansimonsa/">
+        <a href="https://www.linkedin.com/in/jonatansimons/">
              <img src="https://img.shields.io/badge/-linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </div>
